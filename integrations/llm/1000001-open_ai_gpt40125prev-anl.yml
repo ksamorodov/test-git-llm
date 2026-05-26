@@ -1,6 +1,6 @@
 ---
 key: 1000001-open_ai_gpt40125prev-anl
-credential-key: 1000001-wear-hnd
+credential-key: 1000001-test-yca
 name: OPEN_AI - gpt-4-0125-preview
 provider: OPEN_AI
 model: gpt-4-0125-preview
