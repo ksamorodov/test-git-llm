@@ -1,8 +1,8 @@
 ---
-key: 1000001-test_llm-1000001-Vsk-1646
+key: 1000001-test_llm_2-1000001-CTG-1650
 credential-key: null
-name: Chat API
-type: CHAT_API
+name: Чат-виджет
+type: CHAT_WIDGET
 is-auto-deploy: true
 operator-channel-key: null
 settings: null
