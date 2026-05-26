@@ -2,8 +2,8 @@
 id: state_MessageTrigger
 name: Сообщение
 position:
-  x: 391
-  y: -291
-next-step: state_Agent
+  x: 176
+  y: -96
+next-step: agent_giska
 parameters:
   placeholder: null
