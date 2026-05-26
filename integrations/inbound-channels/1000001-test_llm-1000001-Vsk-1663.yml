@@ -1,8 +1,0 @@
----
-key: 1000001-test_llm-1000001-Vsk-1663
-credential-key: null
-name: Чат-виджет
-type: CHAT_WIDGET
-is-auto-deploy: true
-operator-channel-key: null
-settings: null
