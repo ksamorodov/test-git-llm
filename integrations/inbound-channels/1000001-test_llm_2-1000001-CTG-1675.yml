@@ -1,0 +1,8 @@
+---
+key: 1000001-test_llm_2-1000001-CTG-1675
+credential-key: null
+name: Чат-виджет
+type: CHAT_WIDGET
+is-auto-deploy: true
+operator-channel-key: null
+settings: null
