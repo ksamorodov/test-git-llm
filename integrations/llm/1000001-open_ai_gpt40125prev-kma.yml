@@ -1,0 +1,7 @@
+---
+key: 1000001-open_ai_gpt40125prev-kma
+credential-key: 1000001-wear-ybf
+name: OPEN_AI - gpt-4-0125-preview
+provider: OPEN_AI
+model: gpt-4-0125-preview
+is-direct-access: true
