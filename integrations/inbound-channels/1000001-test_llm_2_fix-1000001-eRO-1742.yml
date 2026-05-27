@@ -1,8 +1,9 @@
 ---
-key: 1000001-test_llm_2-1000001-CTG-1734
+key: 1000001-test_llm_2_fix-1000001-eRO-1742
 credential-key: null
 name: Chat API
 type: CHAT_API
 is-auto-deploy: true
 operator-channel-key: null
 settings: null
+origin-key: 1000001-test_llm_2-1000001-CTG-1734
