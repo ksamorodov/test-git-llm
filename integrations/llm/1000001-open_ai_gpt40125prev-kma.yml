@@ -1,6 +1,6 @@
 ---
 key: 1000001-open_ai_gpt40125prev-kma
-credential-key: 1000001-test1-zzi
+credential-key: 1000001-test2-ppe
 name: OPEN_AI - gpt-4-0125-preview
 provider: OPEN_AI
 model: gpt-4-0125-preview
