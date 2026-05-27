@@ -13,7 +13,7 @@ parameters:
   parameters:
     llmModelKey:
       type: LLM_MODEL
-      value: 1000001-open_ai_gpt41-zub
+      value: 1000001-open_ai_gpt41-mvl
       filled-ai: false
     text:
       type: STRING
