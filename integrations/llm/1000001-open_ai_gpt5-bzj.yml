@@ -1,0 +1,7 @@
+---
+key: 1000001-open_ai_gpt5-bzj
+credential-key: 1000001-test1-rix
+name: OPEN_AI - gpt-5
+provider: OPEN_AI
+model: gpt-5
+is-direct-access: true
